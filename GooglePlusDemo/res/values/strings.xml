@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GooglePlusDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="signing_in_">Signing in...</string>
+    <string name="logout">Logout</string>
+    <string name="revoke_access">Revoke access</string>
+    <string name="sign_out">Sign out</string>
+    <string name="share_on_google_">Share on Google+</string>
+    <string name="share_interactive_pots_on_google_">Share interactive pots on Google+</string>
+    <string name="share_moments">Share moments</string>
+
+</resources>
